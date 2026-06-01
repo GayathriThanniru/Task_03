@@ -133,26 +133,47 @@ JK Flip-Flop
 📁 Repository Structure
 
 Task_03/
+
 │
+
 ├── d_flipflop.v
+
 ├── tb_d_flipflop.v
+
 │
+
 ├── jk_flipflop.v
+
 ├── tb_jk_flipflop.v
+
 │
+
 ├── register4.v
+
 ├── tb_register4.v
+
 │
+
 ├── counter4.v
+
 ├── tb_counter4.v
+
 │
+
 ├── Screenshots/
+
 │   ├── D_FF_Output.png
+
 │   ├── JK_FF_Output.png
+
 │   ├── Register_Output.png
+
 │   └── Counter_Output.png
+
 │
+
 └── README.md
+
 
 ---
 
@@ -185,3 +206,9 @@ After completing this project, I gained hands-on experience in:
 🏁 Conclusion
 
 This project successfully demonstrates the design and simulation of fundamental sequential circuits including D Flip-Flop, JK Flip-Flop, 4-Bit Register, and 4-Bit Counter using Verilog HDL. The simulation results validate the correct functionality of all implemented modules and provide practical exposure to RTL design and verification workflows used in VLSI and FPGA development.
+
+
+Author 
+
+Gayathri Thanniru 
+VLSI Intern
