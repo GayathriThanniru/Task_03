@@ -207,6 +207,7 @@ After completing this project, I gained hands-on experience in:
 
 This project successfully demonstrates the design and simulation of fundamental sequential circuits including D Flip-Flop, JK Flip-Flop, 4-Bit Register, and 4-Bit Counter using Verilog HDL. The simulation results validate the correct functionality of all implemented modules and provide practical exposure to RTL design and verification workflows used in VLSI and FPGA development.
 
+---
 
 Author 
 
