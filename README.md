@@ -135,9 +135,7 @@ JK Flip-Flop
 Task_03/
 
 │
-
 ├── d_flipflop.v
-
 ├── tb_d_flipflop.v
 
 │
@@ -211,4 +209,5 @@ This project successfully demonstrates the design and simulation of fundamental 
 Author 
 
 Gayathri Thanniru 
+
 VLSI Intern
