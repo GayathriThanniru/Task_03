@@ -114,19 +114,19 @@ JK Flip-Flop
 
 D Flip-Flop
 
-!"D Flip-Flop Waveform" (Screenshots/D_FF_Output.jpg)
+![D Flip-Flop Waveform] (Screenshots/D_FF_Output.jpg)
 
 JK Flip-Flop
 
-!"JK Flip-Flop Waveform" (Screenshots/JK_FF_Output.jpg)
+![JK Flip-Flop Waveform] (Screenshots/JK_FF_Output.jpg)
 
 4-Bit Register
 
-!"Register Waveform" (Screenshots/Register_Output.jpg)
+![Register Waveform] (Screenshots/Register_Output.jpg)
 
 4-Bit Counter
 
-!"Counter Waveform" (Screenshots/Counter_Output.jpg)
+![Counter Waveform] (Screenshots/Counter_Output.jpg)
 
 ---
 
